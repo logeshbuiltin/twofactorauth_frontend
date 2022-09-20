@@ -12,6 +12,9 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 ## Build
 
+'npm install'  - install node modules
+'npm start' - run the project
+
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
 ## Running unit tests
